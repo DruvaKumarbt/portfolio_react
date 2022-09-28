@@ -24,7 +24,7 @@ const About = () => {
           Self-motivated professional with ability to quickly master new
           technology to drive process improvements. Strong team player with
           excellent communication and collaborative abilities. <br />
-          2+ years of experience writing code as polyglot programmer.
+          3+ years of experience writing code as polyglot programmer.
         </p>
       </div>
     </div>
